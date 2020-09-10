@@ -16,7 +16,7 @@ namespace KSU.CIS300.TowersOfHanoi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new UserInterface());
         }
     }
 }
